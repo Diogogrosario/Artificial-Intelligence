@@ -1,0 +1,3 @@
+Fitting 4 folds for each of 160 candidates, totalling 640 fits
+0.9328969271606604
+KNeighborsClassifier(n_neighbors=10)

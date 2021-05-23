@@ -1,0 +1,3 @@
+Fitting 4 folds for each of 24 candidates, totalling 96 fits
+0.9334705538309265
+SVC(C=100, gamma='auto', kernel='sigmoid')
